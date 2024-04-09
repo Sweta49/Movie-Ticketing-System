@@ -1,0 +1,24 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Avengers: Endgame",
+            "seats": 98
+        },
+        {
+            "id": 2,
+            "name": "Wonder",
+            "seats": 80
+        },
+        {
+            "id": 3,
+            "name": "Joker",
+            "seats": 118
+        },
+        {
+            "id": 4,
+            "name": "MOM",
+            "seats": 89
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "mimansha": {
+        "history": [
+            {
+                "movie": "Avengers: Endgame",
+                "seat": "25"
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "seat": "25"
+            },
+            {
+                "movie": "Joker",
+                "seat": "21"
+            }
+        ]
+    },
+    "Afreena": {
+        "history": [
+            {
+                "movie": "Joker",
+                "seat": "B12"
+            },
+            {
+                "movie": "MOM",
+                "seat": "c11"
+            }
+        ]
+    }
+}
